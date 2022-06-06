@@ -6,10 +6,15 @@
   "scripts": {
     "test": "npx cypress open"
   },
-  "keywords": ["cypress", "nodejs", "training-wheels", "qaninja"],
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "training-wheels",
+    "qaninja"
+  ],
   "author": "Luis",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^9.5.3"
+    "cypress": "^10.0.2"
   }
 }
