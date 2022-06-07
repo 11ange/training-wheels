@@ -15,6 +15,10 @@
   "author": "Luis",
   "license": "MIT",
   "devDependencies": {
+<<<<<<< HEAD
     "cypress": "^10.0.3"
+=======
+    "cypress": "^10.0.2"
+>>>>>>> b117e051e941b54d80a6623d97f2b4e40ef72f95
   }
 }
