@@ -1,7 +1,7 @@
 /// <reference types="Cypress" />
 
 it('Seleção dos checkbox', function(){
-    cy.visit('https://training-wheels-qaninja.herokuapp.com/checkboxes')
+    cy.visit('/checkboxes')
    
     const filmes = [
         'cap3',
