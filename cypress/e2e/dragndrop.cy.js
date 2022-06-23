@@ -1,3 +1,4 @@
+/// <reference types="Cypress" />
 
 describe('Drag and Drop', function () {
 

@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+
 it('Selecionar uma data', function () {
     cy.visit('datepicker')
 

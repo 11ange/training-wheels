@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+
 it('Deve exibir a home page',function(){
     cy.visit('/')
     cy.title()

@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+
 it('Deve selecionar uma única opção', function () {
     cy.visit('/apps/select2/index.html')
     cy.get('.select2-selection--single').click()

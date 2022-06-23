@@ -1,3 +1,4 @@
+/// <reference types="Cypress" />
 
 before(function () {
     cy.visit('select')
